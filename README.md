@@ -1,3 +1,3 @@
-it will contains the daily problem of the day questions as well as its solutions : 
-it will help learners to solve the problem .
-And its also beneficial for me to continuously learn data structures & algorithms and sharpen my problem solving skills:
+This repository contains daily Problem of the Day questions along with their solutions.
+It serves as a way to keep me motivated to solve problems regularly and push at least one solution each day.
+This practice helps me continuously learn data structures and algorithms, while strengthening my problem-solving skills.
